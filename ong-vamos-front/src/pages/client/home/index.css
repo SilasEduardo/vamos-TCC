@@ -1,0 +1,13 @@
+.container-logo {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    position: absolute;
+    left: 50px;
+    top: 30px;  
+}
